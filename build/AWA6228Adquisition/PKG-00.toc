@@ -1,0 +1,51 @@
+('C:\\Users\\hp\\OneDrive\\Documentos\\Ades\\Sonometro real '
+ 'time\\build\\AWA6228Adquisition\\AWA6228Adquisition.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Users\\hp\\OneDrive\\Documentos\\Ades\\Sonometro real '
+   'time\\build\\AWA6228Adquisition\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\hp\\OneDrive\\Documentos\\Ades\\Sonometro real '
+   'time\\build\\AWA6228Adquisition\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\hp\\OneDrive\\Documentos\\Ades\\Sonometro real '
+   'time\\build\\AWA6228Adquisition\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\hp\\OneDrive\\Documentos\\Ades\\Sonometro real '
+   'time\\build\\AWA6228Adquisition\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\hp\\OneDrive\\Documentos\\Ades\\Sonometro real '
+   'time\\build\\AWA6228Adquisition\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\hp\\OneDrive\\Documentos\\Ades\\Sonometro real '
+   'time\\build\\AWA6228Adquisition\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\hp\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('AWA6228Adquisition',
+   'C:\\Users\\hp\\OneDrive\\Documentos\\Ades\\Sonometro real '
+   'time\\AWA6228Adquisition.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
